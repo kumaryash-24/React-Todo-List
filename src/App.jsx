@@ -89,8 +89,8 @@ function App() {
                 {t.done ? "✅" : "🕒"} {t.name}
               </span>
               <div className="action-buttons">
-                <button onClick={() => editTask(t.id)}>✏️</button>
-                <button onClick={() => deleteTask(t.id)}>🗑️</button>
+                <button onClick={() => editTask(t.id)}>✏️ Edit</button>
+                <button onClick={() => deleteTask(t.id)}>🗑️ Delete</button>
               </div>
             </li>
           ))
