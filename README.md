@@ -43,7 +43,7 @@ Follow these steps to run this project on your own machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kumaryash-24/YOUR-REPO-NAME.git
+git clone https://github.com/kumaryash-24/React-Todo-List.git
 
 # 2. Go into your project folder
 cd your-repo-name
