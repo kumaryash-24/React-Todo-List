@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   const [task, setTask] = useState("");
   const [taskList, setTaskList] = useState([]);
-  const [editId, setEditId] = useState(null);
+  const [editId, setEditId] = useState(null);  
   const [darkMode, setDarkMode] = useState(false);
 
   const toggleTheme = () => {
