@@ -17,7 +17,7 @@ It supports adding, editing, marking complete, deleting tasks, dark mode toggle,
 - 🧹 Clear all completed tasks
 - 🌙 Toggle between Dark Mode and Light Mode
 - ⌨️ Add/update tasks using Enter key
-- Responsive & mobile-friendly
+-  Fully Responsive
 
 ---
 
